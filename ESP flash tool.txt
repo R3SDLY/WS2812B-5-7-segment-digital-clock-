@@ -1,0 +1,4 @@
+ESP flash tool 
+1 download the esp flashing tool
+2 select the bin file 
+3 click on start then finished 
